@@ -1,0 +1,14 @@
+@charset "utf-8";
+body {
+	padding: 0;
+	margin: 0;
+}
+
+img {position: absolute;}
+.screen{
+  left: 249px;
+  top: 669px;
+}
+.rightarrow {
+	left: 100px;
+}
